@@ -1,5 +1,5 @@
 {
-    "name": "edcpl/inertia-laravel",
+    "name": "edc/inertia-laravel",
     "type": "library",
     "description": "The EDC version of Laravel adapter for Inertia.js.",
     "keywords": ["laravel", "inertia"],
